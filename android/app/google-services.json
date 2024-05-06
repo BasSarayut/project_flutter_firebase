@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "134155662675",
+    "project_id": "fckpro17-8900f",
+    "storage_bucket": "fckpro17-8900f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134155662675:android:74c4fc94fb66474d9e5da6",
+        "android_client_info": {
+          "package_name": "com.example.project_flutter_fiebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134155662675-leg25ldf285b5ujq2tgr83etitsvoiv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw6U337I4tKSI7jvmvemY4DX2j2ih5YoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134155662675-leg25ldf285b5ujq2tgr83etitsvoiv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
